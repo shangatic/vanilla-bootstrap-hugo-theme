@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
-title = "Vanilla"
+title = "Autolytics"
 theme = "vanilla-bootstrap-hugo-theme"
 googleAnalytics = "UA-123456789-1"
 
