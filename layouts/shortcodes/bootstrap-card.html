@@ -12,9 +12,9 @@
 {{ end }}
 
 <div class="card {{ .Get "class" }}" style="{{ .Get "style" | safeCSS }}">
-  <a href="{{ $original.Permalink }}">
+
     <img src="{{ $new.Permalink }}" class="card-img-top" alt="{{ .Get "alt" }}">
-  </a>
+
   {{ if or (.Get "title") (.Get "text") }}
     <div class="card-body">
     {{ with (.Get "title") }}

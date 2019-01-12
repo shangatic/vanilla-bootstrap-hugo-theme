@@ -3,14 +3,11 @@ date: "2014-04-09"
 title: "About"
 ---
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+Autolytics is a boutique automotive data analytics consulting concern.
 
-It makes use of a variety of open source projects including:
+We make use of a variety of open source projects including:
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+* https://github.com/tensorflow
+* https://github.com/keras-team/keras
+* https://github.com/solid
+* https://github.com/hyperledger

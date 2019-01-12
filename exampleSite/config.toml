@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://autolytics.co.uk"
 languageCode = "en-us"
 title = "Autolytics"
 theme = "vanilla-bootstrap-hugo-theme"
@@ -49,5 +49,5 @@ googleAnalytics = "UA-123456789-1"
   showActiveNav = true
   containerMaxWidth = "700px"
   dateFormat = "Jan 2, 2006"
-  homeText = "Welcome to the Vanilla theme demo. Have a look around. Maybe even eat some ice cream."
-  footerText = "Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)"
+  homeText = "Analytics and Inferencing for Automotive."
+  footerText = "&copy; 2019 Autolytics  "
