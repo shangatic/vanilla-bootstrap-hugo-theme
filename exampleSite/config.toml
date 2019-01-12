@@ -35,7 +35,7 @@ googleAnalytics = "UA-123456789-1"
     weight = 3
   [[menu.main]]
     name = "About"
-    pre = "smile"
+    pre = "info"
     url = "/about/"
     weight = 4
   [[menu.main]]
